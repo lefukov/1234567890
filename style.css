@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:MediumOrchid ;
+    padding: 30px;
+}
+
+header a{
+    text-decoration: none;
+    border: 5px solid Lime;
+    border-radius: 50%;
+    padding: 10px;
+    color: Red;
+}
+
+h1{
+    font-size: 50px;
+    color:Aqua ;
+    background-color:Fuchsia ;
+    text-align:center ;
+}
+
+footer p{
+    color:LawnGreen ;
+}
+footer{
+    background-color:Aqua ;
+    border:3px solid Blue	 ;
+}
+
+nav a{
+    color:LimeGreen ;
+}
+nav{
+    background-color:Blue ; 
+}
+.b{
+    background-color:Yellow ;
+    color:Cyan ;
+    border:5px solid GreenYellow ; 
+    border-radius:5% ;
+}
+
+.d{
+    color: Aquamarine;
+    border:30px solid Violet ;
+    border-radius:100% ;
+    padding: 20px;
+    text-align:center ;
+}
+
+.ghj{
+    color:MediumOrchid ;
+    background-color: Lime;
+}
+
+.x{
+    border:10px solid LightSeaGreen ;
+    border-radius:100% ;
+    color:Cyan ;
+    background-color:RoyalBlue ;
+    text-align:center ;
+}
+
+.y{
+ font-size: 20px;
+ color:Fuchsia ; 
+ background-color:LightGreen ;  
+}
+.q{
+    border:5px solid MidnightBlue ;
+    border-radius:100% ;
+    color: SandyBrown;
+    background-color: tomato;
+    padding: 30px;
+    text-align: center;
+}
+.m{
+    font-size: 20px;
+    color: chartreuse;
+    background-color: coral;
+}
